@@ -1,0 +1,12 @@
+<element name="Investment of the Chain Master" type="Class Feature" source="Tasha's Cauldron of Everything" id="ID_WOTC_PHB_CLASS_FEATURE_ELDRITCH_INVOCATION_INVESTMENT_OF_THE_CHAIN_MASTER">
+		<supports>Eldritch Invocation, Pact of the Chain</supports>
+		<prerequisite>Pact of the Chain feature</prerequisite>
+		<requirements>ID_WOTC_PHB_CLASS_FEATURE_WARLOCK_PACT_BOON_PACT_OF_THE_CHAIN</requirements>
+		<description>
+			<p><em>Prerequisite: Pact of the Chain feature</em></p>
+			<p>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits: The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet. As a bonus action, you can command the familiar to take the Attack action. The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks. If the familiar forces a creature to make a saving throw, it uses your spell save DC. When the familiar takes damage, you can use your reaction to grant it resistance against that damage.</p>
+		</description>
+		<sheet>
+			<description>When you cast find familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits: The familiar gains either a flying speed or a swimming speed (your choice) of 40 feet. As a bonus action, you can command the familiar to take the Attack action. The familiar's weapon attacks are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks. If the familiar forces a creature to make a saving throw, it uses your spell save DC. When the familiar takes damage, you can use your reaction to grant it resistance against that damage.</description>
+		</sheet>
+	</element>
